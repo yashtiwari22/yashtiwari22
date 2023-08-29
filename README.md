@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yash Tiwari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate blockchain developer from India</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **hyperledger**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **React, Web Series**
+- 💬 Ask me about **Blockchain,React Web Series**
 
 - 📫 How to reach me **yash22012002@gmail.com**
 
